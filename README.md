@@ -6,8 +6,8 @@
 
 |  Дата 	|   Тема	|  Материалы 	|  &nbsp;&nbsp;&nbsp;[Записи](https://disk.yandex.ru/d/78cEThkQxRul0Q)&nbsp;&nbsp;&nbsp; 	| Задания |
 |:---:	|---	|:---:	|:---:	|:---:	|
-|   17.01	|   Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities	|     [Презентация 1](https://docs.google.com/presentation/d/1tCFPk7VDInotSHeFeiV7368R0_-AqEp3TwKs9hPRNhk/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2026/blob/main/Practical_1/Practical_1.md)	|  [Запись 1](https://disk.yandex.ru/i/EP83Chqs_5RhjQ)  | |
-|   24.01	|   Понятие корпуса текстов. Типы аннотации. Знакомство с Python	|      |  |
+|   17.01	|   Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities	|     [Презентация 1](https://docs.google.com/presentation/d/1tCFPk7VDInotSHeFeiV7368R0_-AqEp3TwKs9hPRNhk/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2026/blob/main/Practical_1/Practical_1.md)	|  [Запись 1](https://disk.yandex.ru/i/EP83Chqs_5RhjQ)  |  |
+|   24.01	|   Понятие корпуса текстов. Типы аннотации. Знакомство с Python	|   [Практическое задание 2](https://github.com/alekseyst/text_analysis_2026/blob/main/Practical_2/Practical_2_PythonIntro.ipynb) |  | [Опциональное 1](https://github.com/alekseyst/text_analysis_2026/blob/main/Optional/Optional_1.md)  |
 |   31.01	|   Создание корпуса. Морфологическая и синтаксическая разметка	|    	|    | |
 |   7.02	|   Работа с частотностями: статистика и визуализация	|    	|    | Домашнее задание 1 |
 |   14.02	|   Аналитическая статистика	|   	|    |   |
