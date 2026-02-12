@@ -8,10 +8,10 @@
 |:---:	|---	|:---:	|:---:	|:---:	|
 |   17.01	|   Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities	|     [Презентация 1](https://docs.google.com/presentation/d/1tCFPk7VDInotSHeFeiV7368R0_-AqEp3TwKs9hPRNhk/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2026/blob/main/Practical_1/Practical_1.md)	|  [Запись 1](https://disk.yandex.ru/i/EP83Chqs_5RhjQ)  |  |
 |   24.01	|   Понятие корпуса текстов. Типы аннотации. Знакомство с Python	|   [Презентация 2](https://docs.google.com/presentation/d/1QwHdCOnGljOjqfgW6IHaDY1-CesbF8N0Vb3xWZGKgIw/edit?usp=sharing)<br>[Практическое задание 2](https://github.com/alekseyst/text_analysis_2026/blob/main/Practical_2/Practical_2_PythonIntro.ipynb) | [Запись 2](https://disk.yandex.ru/i/KUnNscxNAK0dNg) | [Опциональное 1](https://github.com/alekseyst/text_analysis_2026/blob/main/Optional/Optional_1.md)  |
-|   31.01	|   Создание корпуса. Морфологическая и синтаксическая разметка. 	|   [Практическое задание 3](https://colab.research.google.com/drive/1zS4JdtCbCnbtZJelycTN88QpiDBAVPFV?usp=sharing)<br>[Практическое задание 4](https://colab.research.google.com/drive/1thn6sapty1cf0pNF0U5pgBAYXMHWq1ET?usp=sharing) 	|    | |
-|   7.02	|   Работа с таблицами	|    [Практическое задание 5](https://colab.research.google.com/drive/1_EY_CZzzTiKMjIHqP9EyghznMsONzL5r?usp=sharing)	|    | Домашнее задание 1 |
-|   14.02	|   Создание корпуса: Скачивание текстов из Интернета 	|   	|    |   |
-|   21.02	|   Работа с частотностями: статистика и визуализация. Аналитическая статистика	|    	|    | Выбор тем проектов |
+|   31.01	|   Создание корпуса. Морфологическая и синтаксическая разметка. 	|   [Практическое задание 3](https://colab.research.google.com/drive/1zS4JdtCbCnbtZJelycTN88QpiDBAVPFV?usp=sharing)<br> 	|    | |
+|   7.02	|   Работа с таблицами	|   [Практическое задание 4](https://colab.research.google.com/drive/1thn6sapty1cf0pNF0U5pgBAYXMHWq1ET?usp=sharing) 	|    |  |
+|   14.02	|   Создание корпуса: Скачивание текстов из Интернета 	|   [Практическое задание 5](https://colab.research.google.com/drive/1_EY_CZzzTiKMjIHqP9EyghznMsONzL5r?usp=sharing)	|    | [Домашнее задание 1](https://colab.research.google.com/drive/1QX2719C3JvpkRA9f70CDuduDek_DWdor#scrollTo=729537fc-3719-4f77-8227-68431d28ece1),<br> дедлайн 21 февраля |
+|   21.02	|   Работа с частотностями: статистика и визуализация. Аналитическая статистика	|    	|    | [Выбор тем проектов](https://github.com/alekseyst/text_analysis_2026/blob/main/Tasks/Final_project.md) |
 |   28.02	|   Отдельные инструменты текстового анализа: ключевые слова, анализ тональности, стилометрия, кластеризация	|    	|    | Домашнее задание 2  |
 |   7.03	|   Что под обшивкой современных инструментов анализа языка — машинное обучение и нейросети	|    	|    |  |
 |   TBA	|   	|    	|    |  Презентация проекта  |
