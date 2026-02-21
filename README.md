@@ -11,7 +11,7 @@
 |   31.01	|   Создание корпуса. Морфологическая и синтаксическая разметка. 	|   [Практическое задание 3](https://colab.research.google.com/drive/1zS4JdtCbCnbtZJelycTN88QpiDBAVPFV?usp=sharing)<br> 	|    | |
 |   7.02	|   Работа с таблицами	|   [Практическое задание 4](https://colab.research.google.com/drive/1thn6sapty1cf0pNF0U5pgBAYXMHWq1ET?usp=sharing) 	|    |  |
 |   14.02	|   Создание корпуса: Скачивание текстов из Интернета 	|   [Практическое задание 5](https://colab.research.google.com/drive/1_EY_CZzzTiKMjIHqP9EyghznMsONzL5r?usp=sharing)<br>[Материалы по API](https://colab.research.google.com/drive/1RNVAuLj42TRZRy264Sh-rxkvXU9wC_Z5?usp=sharing)	|  [Запись 3](https://disk.yandex.ru/i/pi6AtFCbxDMRMw)  | [Домашнее задание 1](https://colab.research.google.com/drive/1QX2719C3JvpkRA9f70CDuduDek_DWdor#scrollTo=729537fc-3719-4f77-8227-68431d28ece1)<br> до 22 февраля |
-|   21.02	|   Работа с частотностями: статистика и визуализация. Аналитическая статистика	|    	|    | [Выбор тем проектов](https://github.com/alekseyst/text_analysis_2026/blob/main/Tasks/Final_project.md)<br>до 1 марта |
+|   21.02	|   Работа с частотностями: статистика и визуализация. Аналитическая статистика	|   [Практическое задание 6](https://colab.research.google.com/drive/1n7qkVul5ippKqMWesagG6FcH2-ASFzeZ?usp=sharing) 	|    | [Выбор тем проектов](https://github.com/alekseyst/text_analysis_2026/blob/main/Tasks/Final_project.md)<br>до 1 марта |
 |   28.02	|   Отдельные инструменты текстового анализа: ключевые слова, анализ тональности, стилометрия, кластеризация	|    	|    | Домашнее задание 2  |
 |   7.03	|   Что под обшивкой современных инструментов анализа языка — машинное обучение и нейросети	|    	|    |  |
 |   TBA	|   	|    	|    |  Презентация проекта  |
